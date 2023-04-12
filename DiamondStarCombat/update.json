@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/diamond-star-combat/files",
+  "promos": {
+    "1.19-latest": "0.3.0",
+    "1.19.2-latest": "0.5.3"
+  },
+  "1.19.2": {
+    "0.5.3": "HOTFIX. Previous version is unusable because I made a dumb Java Reflection mistake."
+  }
+}
