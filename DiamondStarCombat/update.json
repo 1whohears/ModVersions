@@ -8,6 +8,7 @@
     "0.3.0": "Added a Tank and a small anti-air missile defense unit."
   },
   "1.19.2": {
+    "0.3.0": "Added a Tank and a small anti-air missile defense unit.",
     "0.5.3": "HOTFIX. Previous version is unusable because I made a dumb Java Reflection mistake."
   }
 }
