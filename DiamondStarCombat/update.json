@@ -4,7 +4,7 @@
     "1.18.2-latest": "0.5.6",
     "1.19-latest": "0.5.6",
     "1.19.2-recommended": "0.5.6",
-    "1.19.2-latest": "0.6.3",
+    "1.19.2-latest": "0.6.4",
   },
   "1.18.2": {
     "0.5.6": "Back port"
@@ -17,6 +17,6 @@
     "0.3.0": "Added a Tank and a small anti-air missile defense unit.",
     "0.5.3": "HOTFIX. Previous version is unusable because I made a dumb Java Reflection mistake.",
     "0.5.6": "Left shift has been freed! Pilot overlay changes.",
-    "0.6.3": "ALPHA BUILD! BACKUP YOUR WORLD! Engine system was changed. Old Vehicles may need new engines. Preset system is now fully compatible with datapacks! Create your own aircraft and weapon presets!"
+    "0.6.4": "ALPHA BUILD! BACKUP YOUR WORLD! Engine system was changed. Old Vehicles may need new engines. Preset system is now fully compatible with datapacks! Create your own aircraft and weapon presets!"
   }
 }
