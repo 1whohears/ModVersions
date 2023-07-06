@@ -5,8 +5,8 @@
     "1.18.2-latest": "0.6.8",
     "1.19-recommended": "0.6.8",
     "1.19-latest": "0.6.8",
-    "1.19.2-recommended": "0.6.9",
-    "1.19.2-latest": "0.6.9"
+    "1.19.2-recommended": "0.6.10",
+    "1.19.2-latest": "0.6.10"
   },
   "1.18.2": {
     "0.5.6": "Back port",
@@ -27,6 +27,7 @@
     "0.6.6": "Added E3 Sentry, Wooden Plane, Axcel SAM Truck, and some qol keybinds. Aircraft, weapon, and radar presets can now be fully customized with datapacks!",
     "0.6.7": "Bug fixes and nerfed the radar air to air missiles.",
     "0.6.8": "Fixed crafting benches not assembling items.",
-    "0.6.9": "Added Weapons and Aircraft Villager professions."
+    "0.6.9": "Added Weapons and Aircraft Villager professions.",
+    "0.6.10": "Added radio part."
   }
 }
