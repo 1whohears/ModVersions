@@ -5,8 +5,8 @@
     "1.18.2-latest": "0.6.10",
     "1.19-recommended": "0.6.10",
     "1.19-latest": "0.6.10",
-    "1.19.2-recommended": "0.7.0",
-    "1.19.2-latest": "0.7.0"
+    "1.19.2-recommended": "0.7.1",
+    "1.19.2-latest": "0.7.2"
   },
   "1.18.2": {
     "0.5.6": "Back port",
@@ -31,6 +31,8 @@
     "0.6.8": "Fixed crafting benches not assembling items.",
     "0.6.9": "Added Weapons and Aircraft Villager professions.",
     "0.6.10": "Added radio part.",
-    "0.7.0": "Updated Vehicle Overlay. Vehicle inventory ui is fully customizable via resourcepack! Plane AOA is more stable."
+    "0.7.0": "Updated Vehicle Overlay. Vehicle inventory ui is fully customizable via resourcepack! Plane AOA is more stable.",
+    "0.7.1": "Fixed Datalink.",
+    "0.7.2": "New WIP models, lots of bug fixes, more stuff in config!"
   }
 }
