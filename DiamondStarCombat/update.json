@@ -5,8 +5,8 @@
     "1.18.2-latest": "0.6.10",
     "1.19-recommended": "0.6.10",
     "1.19-latest": "0.6.10",
-    "1.19.2-recommended": "0.9.0",
-    "1.19.2-latest": "0.9.0"
+    "1.19.2-recommended": "0.9.1",
+    "1.19.2-latest": "0.9.1"
   },
   "1.18.2": {
     "0.5.6": "Back port",
@@ -37,6 +37,7 @@
     "0.7.6": "New Common and Client config stuff. Added Bunker Buster. Funny music discs. Elephant load of bug fixes.",
     "0.8.0": "WAVEFRONT OBJ MODELS!",
     "0.8.1": "Recipe Adjustments.",
-    "0.9.0": "New and improved plane models, mob turret AI, better particles, vehicle spraycan, and can now walk on boats!"
+    "0.9.0": "New and improved plane models, mob turret AI, better particles, vehicle spraycan, and can now walk on boats!",
+    "0.9.1": "Added Gimbal Camera! Press ';' by default."
   }
 }
