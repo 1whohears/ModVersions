@@ -5,8 +5,8 @@
     "1.18.2-latest": "0.6.10",
     "1.19-recommended": "0.6.10",
     "1.19-latest": "0.6.10",
-    "1.19.2-recommended": "0.9.9",
-    "1.19.2-latest": "0.9.9"
+    "1.19.2-recommended": "0.10.0",
+    "1.19.2-latest": "0.10.0"
   },
   "1.18.2": {
     "0.5.6": "Back port",
@@ -41,6 +41,7 @@
     "0.9.1": "Added Gimbal Camera! Press ';' by default.",
     "0.9.2": "Removed Boat Jail.",
     "0.9.3": "Added Eden Plane, Google Sub, and Storage Boxes!",
-    "0.9.4": "Actual missile models render under the racks."
+    "0.9.4": "Actual missile models render under the racks.",
+    "0.10.0": "BACKUP YOUR WORLDS. Everything is data driven, improved hitboxes, and improved fighter jet physics!"
   }
 }
