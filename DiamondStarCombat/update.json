@@ -44,6 +44,7 @@
     "0.9.4": "Actual missile models render under the racks.",
     "0.10.0": "BACKUP YOUR WORLDS. Everything is data driven, improved hitboxes, and improved fighter jet physics!",
     "0.11.0": "onewholibs is now a required dependency! Added Krait Chopper and James Wooden Plane.",
-    "0.11.2": "Can now Eject with ']'"
+    "0.11.2": "Can now Eject with ']'",
+    "0.12.0": "Added Eric Truck, Stationary Radar, and better vehicle UI."
   }
 }
